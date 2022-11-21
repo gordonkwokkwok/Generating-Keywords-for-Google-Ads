@@ -7,12 +7,8 @@ The most important task in structuring a search engine marketing account is mapp
 ## Technology
 - Python
 ## Topics
-- Generate keywords for online marketing
-- Create word lists that we can associate with our products
-- Convert our list into a DataFrame
-- Identify matching options
-- View a summary of our campaign work
-- Save the DataFrame to a CSV file
+- Data Manipulation
+
 ## Outline
 1. The brief
 2. Combine the words with the product names
