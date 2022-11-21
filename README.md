@@ -1,1 +1,24 @@
-# Generating-Keywords-for-Google-Ads
+# Generating Keywords for Google Ads ([DataCamp Project](https://www.datacamp.com/))
+Automatically generate keywords for a search engine marketing campaign using Python.
+## Project Description
+You work for a digital marketing agency, which is approached by a massive online retailer of furniture. You are tasked with creating a prototype set of keywords for search campaigns for their sofas section. With your Python skills, you will efficiently create these keywords!
+
+The most important task in structuring a search engine marketing account is mapping the right keywords to the right ads and making sure they send users to the right landing pages. Having figured that out is a big part of the account setup and makes the life of the account manager much easier.
+## Technology
+- Python
+## Topics
+- Generate keywords for online marketing
+- Create word lists that we can associate with our products
+- Convert our list into a DataFrame
+- Identify matching options
+- View a summary of our campaign work
+- Save the DataFrame to a CSV file
+## Outline
+1. The brief
+2. Combine the words with the product names
+3. Convert the list of lists into a DataFrame
+4. Rename the columns of the DataFrame
+5. Add a campaign column
+6. Create the match type column
+7. Duplicate all the keywords into 'phrase' match
+8. Save and summarize!
